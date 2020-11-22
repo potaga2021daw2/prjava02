@@ -1,0 +1,29 @@
+1
+git clone  https://github.com/dacomo2021daw2/prjava02.git
+
+5
+git checkout main
+git status
+git log main
+
+7
+git checkout branca00
+
+10b
+git merge branca00
+
+12
+git push
+
+14a
+git push --set-upstream origin branca01
+
+RESPOSTES
+6
+No es pot veure perquè el canvi ha estat modificat a l’altre branca i no en la que actualment estem
+7
+Si que es pot veure la ultima línia ja que el canvi ha estat generat en aquesta branca
+12
+Per que es des de on hem fet el push
+14c
+A un
